@@ -1,4 +1,8 @@
-
+#
+# https://zguide.zeromq.org/docs/chapter
+# 
+# Derived from author: Daniel Lundin <dln(at)eintr(dot)org>
+#
 import time
 import zmq
 
